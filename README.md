@@ -2,10 +2,15 @@
 
 ## Categories
 
+- [git](#git)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
 
 ---
+
+### git
+
+- [Undo Last Commit With Reset](git/undo-last-commit-with-reset.md)
 
 ### SQL
 
