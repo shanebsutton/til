@@ -3,6 +3,7 @@
 ## Categories
 
 - [git](#git)
+- [GitHub](#github)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
 
@@ -14,6 +15,10 @@
 - [Remove Untracked Files With Clean](git/remove-untracked-files-with-clean.md)
 - [Undo Last Commit With Reset](git/undo-last-commit-with-reset.md)
 - [Unstage Changes With Restore](git/unstage-changes-with-restore.md)
+
+### GitHub
+
+- [Intro to GitHub Actions](github/intro-to-github-actions.md)
 
 ### SQL
 
