@@ -15,6 +15,7 @@
 - [Remove Untracked Files With Clean](git/remove-untracked-files-with-clean.md)
 - [Undo Last Commit With Reset](git/undo-last-commit-with-reset.md)
 - [Unstage Changes With Restore](git/unstage-changes-with-restore.md)
+- [Working With Remote Repositories](git/working-with-remote-repo.md)
 
 ### GitHub
 
