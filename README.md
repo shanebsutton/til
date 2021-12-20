@@ -2,12 +2,17 @@
 
 ## Categories
 
+- [curl](#curl)
 - [git](#git)
 - [GitHub](#github)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
 
 ---
+
+### curl
+
+- [Get IP Address](curl/get-ip-address.md)
 
 ### git
 
