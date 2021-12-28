@@ -30,6 +30,7 @@
 
 - [Get Database File Size](sql/get-database-file-size.md)
 - [Move User Database Files](sql/move-user-database-files.md)
+- [SSMS Block Comment Shortcut](sql/ssms-block-comment-shortcut.md)
 
 ### Vagrant
 
