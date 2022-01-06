@@ -5,6 +5,7 @@
 - [curl](#curl)
 - [git](#git)
 - [GitHub](#github)
+- [Python](#python)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
 
@@ -25,6 +26,10 @@
 ### GitHub
 
 - [Intro to GitHub Actions](github/intro-to-github-actions.md)
+
+### Python
+
+- [Requests Library and JSON Data](python/requests-library-json-data.md)
 
 ### SQL
 
