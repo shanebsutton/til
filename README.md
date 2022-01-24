@@ -5,6 +5,7 @@
 - [curl](#curl)
 - [git](#git)
 - [GitHub](#github)
+- [GitLab](#gitlab)
 - [Python](#python)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
@@ -26,6 +27,10 @@
 ### GitHub
 
 - [Intro to GitHub Actions](github/intro-to-github-actions.md)
+
+### GitLab
+
+- [Using Tags in GitLab CI/CD](gitlab/tags-in-gitlab-cicd.md)
 
 ### Python
 
