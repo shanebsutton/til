@@ -6,6 +6,7 @@
 - [git](#git)
 - [GitHub](#github)
 - [GitLab](#gitlab)
+- [Linux/bash](#linux)
 - [Python](#python)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
@@ -31,6 +32,10 @@
 ### GitLab
 
 - [Using Tags in GitLab CI/CD](gitlab/tags-in-gitlab-cicd.md)
+
+### Linux
+
+- [Single and Double Quotes](linux/single-and-double-quotes.md)
 
 ### Python
 
