@@ -7,6 +7,7 @@
 - [GitHub](#github)
 - [GitLab](#gitlab)
 - [Linux/bash](#linux)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [SQL](#sql)
 - [Vagrant](#vagrant)
@@ -37,6 +38,10 @@
 ### Linux
 
 - [Single and Double Quotes](linux/single-and-double-quotes.md)
+
+### PowerShell
+
+- [Add Module to PowerShell Profile](powershell/add-module-to-profile.md)
 
 ### Python
 
