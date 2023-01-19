@@ -48,6 +48,7 @@
 ### PowerShell
 
 - [Add Module to PowerShell Profile](powershell/add-module-to-profile.md)
+- [Compare Two Folders](powershell/compare-two-folders.md)
 
 ### Python
 
